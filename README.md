@@ -1,2 +1,3 @@
 # hello-world
-doing it for the first time 
+hello everybody,
+I am new to this. Learing it from the scratch. 
